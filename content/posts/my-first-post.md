@@ -26,7 +26,7 @@ What did I actually do this week? Embarrassingly, this:
 2. Completed it. Tested it. Seemed to work fine {spoiler: be skeptical}
 3. Published the 1st blog from a really complicated pre-built template to Github
 4. Wrote the 1st post, rewrote it, found some errors, and finally got it just right
-5. Excitedly told my 2 senior engineer mentors and a bunch of my friends about the blog and asked them to use it to hold me accountable to accomplishing tasks quickly
+5. Excitedly told my 2 senior engineer mentors and a bunch of my friends about the blog and asked them to use it to hold me accountable to accomplishing tasks more efficiently
 6. Wrote a 2nd post about how this was such a great idea in record time. Things are going awesome
 7. Realized I #failed because the damn blog wasn't updating. Spent multiple hours trying to diagnose the problem
 8. Mistakenly deleted the 1st blog trying to fix it with a backup from the same tutorial
