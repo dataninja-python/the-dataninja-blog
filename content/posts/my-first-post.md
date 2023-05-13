@@ -22,16 +22,16 @@ Totally spent a few hours on those. The ADHD battle is real...what can I say.
 
 What did I actually do this week? Embarrassingly, this:
 
-1. I found a promising tutorial written by some guy on Medium (hey, it said he was a senior engineer at a FANG. What could go wrong?)
-2. Completed it
-3. Published the 1st blog from a template to Github
-4. Wrote the 1st post
+1. Found a promising tutorial written by some guy on Medium (hey, it's written by a senior engineer at a FANG or is it FAANG. Whatever I didn't get past my third round L5 Google Systems Engineer interview so he must know more than me right?)
+2. Completed it. Tested it. Seemed to work fine {spoiler: be skeptical}
+3. Published the 1st blog from a really complicated pre-built template to Github
+4. Wrote the 1st post, rewrote it, found some errors, and finally got it just right
 5. Excitedly told my 2 senior engineer mentors and a bunch of my friends about the blog and asked them to use it to hold me accountable to accomplishing tasks quickly
-6. Wrote a 2nd post about how this was such a great idea
-7. Realized I #failed because the damn blog wasn't updating
-8. Mistakenly deleted the 1st blog trying to fix it with a backup
+6. Wrote a 2nd post about how this was such a great idea in record time. Things are going awesome
+7. Realized I #failed because the damn blog wasn't updating. Spent multiple hours trying to diagnose the problem
+8. Mistakenly deleted the 1st blog trying to fix it with a backup from the same tutorial
 9. Mistakenly deleted the 2nd blog and the backup trying to use another tutorial
-10. Purposely deleted the 3rd blog during a fit of rage after realizing deleting blogs is the only useful skill I’ve mastered all week
+10. Purposely deleted the 3rd blog during a fit of rage after realizing deleting blogs is the skill I mastered this week so I might as well use it
 
 ## KRUGER DUNNING STRIKES AGAIN
 
