@@ -4,47 +4,52 @@ date: 2023-05-13T10:52:24-04:00
 draft: true
 ---
 
+## THE ARTIST FORMERLY KNOWN AS GOOGLEFU
+
 It's official. The internet is trash! Like GARBAGE!
 
-After nearly decades perfecting the martial art now known as "Googlefu." I seriously thought I could find anything...
-...in milliseconds. Well, that's not true. And, ChatGpt and other "AI" tools (we'll save my thoughts on this for another day)
-are suppoed to make this even easier, right? Wrong!
+After over two decades spent perfecting the martial art commonly called "Googlefu." I seriously thought I could find anything...in milliseconds…from anywhere. 
 
-So far, all the internet has helped me do during the first week of publishing this blog is find whole new ways to procrastinate. 
+False! Oh, I know what you’re thinking. ChatGpt or [insert the currently most popular “AI” tool here] would have made quick work of this. Right? 
 
-Here's what I've actually "accomplished" so far:
+Wrong! (Keep reading to discover why)
 
-1. Found a promising tutorial
-2. Completed it 
-3. Created the 1st blog
-4. Made the 1st post
-5. Excitedly told my 2 mentors and a bunch of my friends about the blog and my desire to have them use it hold me accountable
+So far, the only thing the internet has succeeded at this week - sadly, this is common and why I read books - is helping me find whole new ways to procrastinate. Like the Leetcode and CodeSignal problems I completed which one of my mentors says are completely unnecessary.
+
+## FAIL * FAIL * FAIL = COLLOSAL FAIL
+
+What did I actually do this week? Embarrassingly, this:
+
+1. I found a promising tutorial written by some guy on Medium (hey, it said he was a senior engineer at a FANG. What could go wrong?)
+2. Completed it
+3. Published the 1st blog from a template to Github
+4. Wrote the 1st post
+5. Excitedly told my 2 senior engineer mentors and a bunch of my friends about the blog and asked them to use it to hold me accountable to accomplishing tasks quickly
 6. Wrote a 2nd post about how this was such a great idea
-7. Realized I #failed because the damn blog isn't updating
+7. Realized I #failed because the damn blog wasn't updating
 8. Mistakenly deleted the 1st blog trying to fix it with a backup
-9. Mistakenly deleted the 2nd blog and the backup trying to fix it
-10. Purposely deleted the 3rd blog during a fit of rage after realizing deleting blogs is the one thing I for sure know how to do
+9. Mistakenly deleted the 2nd blog and the backup trying to use another tutorial
+10. Purposely deleted the 3rd blog during a fit of rage after realizing deleting blogs is the only useful skill I’ve mastered all week
+
+## KRUGER DUNNING STRIKES AGAIN
 
 If you're reading this, then you can be certain of a few things:
 
-* I have wasted nearly 10 hours initially intended to be invested in learning Golang on this blog.
+- I have wasted nearly 10 hours that should have been spent learning Golang on just the initial setup and publishing of this blog. I could have just signed up for Medium or used Blogger in minutes. But, no, I like my life complicated…because I like to understand what I’m doing…have more control…put in the work upfront that pays off in multiples later…or this is what I constantly tell myself anyway.
+- It is painfully obvious now that either (a) the bar to be an expert is low, very low, (b) being an expert, even a veteran FAANG employee, doesn’t mean you can teach what you know, or (c) I know more than I realize. Regardless…
+- …I'm pissed, tired, and a little defeated and I haven’t built anything in Golang yet. Except for 2 functions to solve essentially the same problem. I’ll post about this experience another time.
 
-* I've realized most of these tutorials are by fake gurus who know less than me but had the audacity to create tutorials.
+### KEY TAKEAWAYS
 
-* I'm already pissed off, tired, and feeling a little defeated.
+1. Don't fall for the hype. Just because a tutorial has a lot of views or likes doesn't mean you will learn anything relevant from it or be entertained. Remember when I spoke about how ChatGpt couldn’t help? Well, I tried it. Guess what? It did exactly as programmed: apply linear algebra, probability, statistics, and calculus in a specific way to lots of internet data to return words predicted to be most relevant to the ones I entered. Or, in English, it returned the same non-working sh@!t. It was prettier and better structured…wish that mattered.
+2. When in doubt, refer to the official documentation. As the Grey Poupon commercials say: "anything else would be uncivilized." Ok. Duh, right? I don’t know why I relearn this every few months. When you have a question about something. Ask the person who built it. In this case, GitHub. And, sure enough, the solution was on the site in the help section.
+3. Buckle up. This is going to be a wild ride. Entertaining for you. But definitely trying for me. Time to add patience and pre-planning to the list of things I need to work on. {Internal Dialog: "Where are the random sheets of copy paper I jot notes on? Oh, that's right.
+I threw them away yesterday while 'cleaning up.' Great!"}
 
+## I’M OUT
 
-KEY TAKEAWAYS
+Join us next week as our favorite data nerd, anti-hero, and ADHDer makes his first relevant post. Or don't. F**@# it. I'm worn out.
 
-1. Don't fall for hype. Just because a tutorial has a lot of views doesn't mean the content is useful, relevent, or, honestly,
-even entertaining.
+*WEEKEND UPDATE: I'm going to Barnes & Nobles to kill some trees. Cancel me if you want. But, at least, publishers do the pre-screening so I don't waste time following another expert's experiment in self adulation disguised as teaching. If I ever offer a course on something, please remind me I said that.*
 
-2. When in doubt, refer to the official documentation. As the Grey Poupon commercials say: "anything else would be uncivilized"
-
-3. Buckle up. This is going to be one wild ride. Probably fun for you. But definitely a trying one for me. Guess I'll add patience
-to the list of things I need to improve. {Internal Dialog: "Where are the random sheets of copy paper I jot notes on? Oh that's right.
-I threw them away while 'cleaning up.' Great!"}
-
-Join next week as our favorite nerd, anti-hero, and ADHDer makes his first post about actual coding. Or don't. F**@# it. I'm worn out.
-
-Visit the [AI's Blog](https://the-dataninja-blog.github.io) website!
+Visit the [AI's Blog](https://the-dataninja-blog.github.io/) website!
