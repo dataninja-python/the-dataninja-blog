@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://the-dataninja-blog.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = "An Epic ADHD Journey To Senior Engineer"
 theme = 'ananke'
