@@ -16,6 +16,8 @@ Wrong! (Keep reading to discover why)
 
 So far, the only thing the internet has succeeded at this week - sadly, this is common and why I read books - is helping me find whole new ways to procrastinate. Like the Leetcode and CodeSignal problems I completed which one of my mentors says are completely unnecessary.
 
+Totally spent a few hours on those. The ADHD battle is real...what can I say.
+
 ## FAIL * FAIL * FAIL = COLLOSAL FAIL
 
 What did I actually do this week? Embarrassingly, this:
