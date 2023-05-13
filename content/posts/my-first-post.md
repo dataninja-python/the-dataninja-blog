@@ -1,7 +1,7 @@
 ---
 title: "D@m!**t Why Is Even This Hard"
 date: 2023-05-13T10:52:24-04:00
-draft: true
+draft: false
 ---
 
 ## THE ARTIST FORMERLY KNOWN AS GOOGLEFU
