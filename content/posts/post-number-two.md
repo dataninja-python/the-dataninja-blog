@@ -26,12 +26,12 @@ Well, the caffeine has given me a headache. So, that's it. Another day, I might 
 
 1. Even a broken watch is right twice a day. There are not enough data points for me to declare victory. But, as Ice Cube said: "Today was a good day." I guess just keep trying is the real lesson.
 
-2. Early to rise and early to caffeinate. I dedicate 80% of my productivity to Coca-Cola and 20% to getting up at 7:30am. No discussion. I stand by this message.
+2. Early to rise and early to caffeinate. I attribute 80% of my productivity to Coca-Cola and 20% to getting up at 7:30am. No discussion. I stand by this message.
 
 3. Build something. My mentors have both told me this for a while. Well, it turns out experts are...experts. Having something to build was motivating and helped me feel productive.
 
 ## I'M OUT!
-See you next time. Same bat time. Probably not the same bat time because I'm horrible at keeping routines.
+See you next time. Same bat place. Probably not the same bat time because I'm horrible at keeping routines.
 
 ### SOURCES/LINKS
 
