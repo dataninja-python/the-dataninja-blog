@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>An Epic ADHD Journey To Senior Engineer</title>
-    <link>https://dataninjapython.gitlab.io/the-dataninja-blog/</link>
-    <description>Recent content on An Epic ADHD Journey To Senior Engineer</description>
+    <title>Posts on An Epic ADHD Journey To Senior Engineer</title>
+    <link>https://dataninjapython.gitlab.io/the-dataninja-blog/posts/</link>
+    <description>Recent content in Posts on An Epic ADHD Journey To Senior Engineer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 May 2023 19:10:56 -0400</lastBuildDate><atom:link href="https://dataninjapython.gitlab.io/the-dataninja-blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 May 2023 19:10:56 -0400</lastBuildDate><atom:link href="https://dataninjapython.gitlab.io/the-dataninja-blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Procratination Took An L</title>
       <link>https://dataninjapython.gitlab.io/the-dataninja-blog/posts/post-number-two/</link>
