@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>An Epic ADHD Journey To Senior Engineer</title>
-    <link>https://dataninja-python.github.io/the-dataninja-blog/</link>
+    <link>www.igherighe.com/</link>
     <description>Recent content on An Epic ADHD Journey To Senior Engineer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 May 2023 17:39:26 -0400</lastBuildDate><atom:link href="https://dataninja-python.github.io/the-dataninja-blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 May 2023 17:39:26 -0400</lastBuildDate><atom:link href="www.igherighe.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>After Memorial Day</title>
-      <link>https://dataninja-python.github.io/the-dataninja-blog/posts/after-memorial-day/</link>
+      <link>www.igherighe.com/posts/after-memorial-day/</link>
       <pubDate>Tue, 30 May 2023 17:39:26 -0400</pubDate>
       
-      <guid>https://dataninja-python.github.io/the-dataninja-blog/posts/after-memorial-day/</guid>
+      <guid>www.igherighe.com/posts/after-memorial-day/</guid>
       <description>FIRST DAY BACK STRUGGLE It took a while to get into the learning plan. Issue #1 is the hedge fund required a lot of attention today. Apparently, I was not the only one who sees the potential downward spiral resulting from hitting the debt ceiling. Unfortunately, a few positions played counter to analysis. This should correct itself in time but in the short-term I had to make several adjustments.
 By the time that was done, I had to handle several business calls.</description>
     </item>
     
     <item>
       <title>Slight Pivot</title>
-      <link>https://dataninja-python.github.io/the-dataninja-blog/posts/slight-pivot/</link>
+      <link>www.igherighe.com/posts/slight-pivot/</link>
       <pubDate>Wed, 24 May 2023 11:20:07 -0400</pubDate>
       
-      <guid>https://dataninja-python.github.io/the-dataninja-blog/posts/slight-pivot/</guid>
+      <guid>www.igherighe.com/posts/slight-pivot/</guid>
       <description>REFINING THE VISION Ok. So, this is probably 55% ADHD and 45% learning what I didn&amp;rsquo;t know talking. It appears in the end it will take multiple technologies working together to achieve my goal. What does this mean? Well, not much actually. Because Go is still going to be at the heart of executing a lot of the work.
 WHAT DOES CHANGE Python - ease of launch: going to have to use this more than I thought to handle a lot of the user account and similar backend activities.</description>
     </item>
     
     <item>
       <title>Struct My Stuff</title>
-      <link>https://dataninja-python.github.io/the-dataninja-blog/posts/struct-my-stuff/</link>
+      <link>www.igherighe.com/posts/struct-my-stuff/</link>
       <pubDate>Tue, 23 May 2023 20:47:28 -0400</pubDate>
       
-      <guid>https://dataninja-python.github.io/the-dataninja-blog/posts/struct-my-stuff/</guid>
+      <guid>www.igherighe.com/posts/struct-my-stuff/</guid>
       <description>SLOWLY BUT SURELY It&amp;rsquo;s boring at times but I am making my way through the content. Go has an interesting data type called &amp;ldquo;structs.&amp;rdquo; The appear similar to classes in Python, Javascript, and couple of other languages I&amp;rsquo;ve worked with.
 However, implementing them is different. Structs hold data. Then, you can use other data structures to do things with the data. For example, methods allow you to perform actions with the data.</description>
     </item>
     
     <item>
       <title>Getting More Complex</title>
-      <link>https://dataninja-python.github.io/the-dataninja-blog/posts/getting-more-complex/</link>
+      <link>www.igherighe.com/posts/getting-more-complex/</link>
       <pubDate>Mon, 22 May 2023 13:43:35 -0400</pubDate>
       
-      <guid>https://dataninja-python.github.io/the-dataninja-blog/posts/getting-more-complex/</guid>
+      <guid>www.igherighe.com/posts/getting-more-complex/</guid>
       <description>WE&amp;rsquo;RE NOT IN KANSAS ANYMORE Ok. Going through &amp;ldquo;Go By Example&amp;rdquo; is boring. Really boring. It&amp;rsquo;s probably the right this to do. But, I&amp;rsquo;m struggling with the fact that there are like 100 examples of things to do&amp;hellip;and I&amp;rsquo;ve finished 19.
 PUSHING THROUGH I&amp;rsquo;m not giving up. Far from it. I&amp;rsquo;m going to have to adjust how I do things to survive the monotony. So, how about this?
 I&amp;rsquo;ll split my time in half.</description>
@@ -50,40 +50,40 @@ I&amp;rsquo;ll split my time in half.</description>
     
     <item>
       <title>Short and Sweet</title>
-      <link>https://dataninja-python.github.io/the-dataninja-blog/posts/short-and-sweet/</link>
+      <link>www.igherighe.com/posts/short-and-sweet/</link>
       <pubDate>Sun, 21 May 2023 20:14:50 -0400</pubDate>
       
-      <guid>https://dataninja-python.github.io/the-dataninja-blog/posts/short-and-sweet/</guid>
+      <guid>www.igherighe.com/posts/short-and-sweet/</guid>
       <description>THIS MIGHT AS WELL BE A TWEET I didn’t do the best job blogging last week. Sure I had excuses. But, excuses != progress. So, here&amp;rsquo;s my second post this weekend to catch up.
 Though, to be honest, it is the weekend. Motivation is running low. And, I may have cracked opened a Playstation 5. One of the two, I am supposed to give away when we launch our upcoming retail app.</description>
     </item>
     
     <item>
       <title>A Tough One</title>
-      <link>https://dataninja-python.github.io/the-dataninja-blog/posts/a-tough-one/</link>
+      <link>www.igherighe.com/posts/a-tough-one/</link>
       <pubDate>Sat, 20 May 2023 21:46:26 -0400</pubDate>
       
-      <guid>https://dataninja-python.github.io/the-dataninja-blog/posts/a-tough-one/</guid>
+      <guid>www.igherighe.com/posts/a-tough-one/</guid>
       <description>A CHALLENGING WEEK OF SELF-DISCOVERY WHEN LIFE GIVES YOU AN L&amp;hellip;MAKE LEMONDADE Life is a journey filled with ups and downs, and sometimes, a single week can throw a series of unexpected challenges your way. This week was filled with personal and academic setbacks. However, I instead of disrupting my journey it has rekindled my drive to prove that we can achieve goals others deem impossible.
 LOSS AND DISAPPOINTMENT: One of the hardest challenges encountered this week was the news that a friend lost a family member.</description>
     </item>
     
     <item>
       <title>Today Was Rough</title>
-      <link>https://dataninja-python.github.io/the-dataninja-blog/posts/today-was-rough/</link>
+      <link>www.igherighe.com/posts/today-was-rough/</link>
       <pubDate>Tue, 16 May 2023 22:32:38 -0400</pubDate>
       
-      <guid>https://dataninja-python.github.io/the-dataninja-blog/posts/today-was-rough/</guid>
+      <guid>www.igherighe.com/posts/today-was-rough/</guid>
       <description>NOT ONE OF MY FINEST&amp;hellip; What can I say? There are no excuses. I just wasn&amp;rsquo;t productive today. To be fair, I DID a lot of stuff. Just didn&amp;rsquo;t spend much time on any of the important stuff long-term.
 THE WINNER IS WHO GETS UP LAST I could beat myself up about it. Or, accept it. I didn&amp;rsquo;t have a good day. I don&amp;rsquo;t have a cool new program or update to share.</description>
     </item>
     
     <item>
       <title>Procratination Took An L</title>
-      <link>https://dataninja-python.github.io/the-dataninja-blog/posts/post-number-two/</link>
+      <link>www.igherighe.com/posts/post-number-two/</link>
       <pubDate>Mon, 15 May 2023 19:10:56 -0400</pubDate>
       
-      <guid>https://dataninja-python.github.io/the-dataninja-blog/posts/post-number-two/</guid>
+      <guid>www.igherighe.com/posts/post-number-two/</guid>
       <description>TODAY WAS A &amp;lsquo;W&amp;rsquo; I&amp;rsquo;m proud to say I did it. I beat procrastination. I know, I know, it&amp;rsquo;s a miracle. But it&amp;rsquo;s true.
 I had a full day of meetings today - usually the perfect excuse to not get anything done. But not today. Today, I won the productivity battle&amp;hellip;we&amp;rsquo;ll see about the war.
 THE PLAN Here&amp;rsquo;s how I did it:
@@ -92,10 +92,10 @@ I got up early (7:30am - it hurt). I put down enough caffeine to kill a baby wha
     
     <item>
       <title>D@m!**t Why Is Even This Hard</title>
-      <link>https://dataninja-python.github.io/the-dataninja-blog/posts/my-first-post/</link>
+      <link>www.igherighe.com/posts/my-first-post/</link>
       <pubDate>Sat, 13 May 2023 10:52:24 -0400</pubDate>
       
-      <guid>https://dataninja-python.github.io/the-dataninja-blog/posts/my-first-post/</guid>
+      <guid>www.igherighe.com/posts/my-first-post/</guid>
       <description>THE ARTIST FORMERLY KNOWN AS GOOGLEFU It&amp;rsquo;s official. The internet is trash! Like GARBAGE!
 After over two decades spent perfecting the martial art commonly called &amp;ldquo;Googlefu.&amp;rdquo; I seriously thought I could find anything&amp;hellip;in milliseconds…from anywhere.
 False! Oh, I know what you’re thinking. ChatGpt or [insert the currently most popular “AI” tool here] would have made quick work of this. Right?

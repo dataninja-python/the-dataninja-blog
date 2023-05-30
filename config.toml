@@ -1,4 +1,4 @@
-baseURL = 'https://dataninja-python.github.io/the-dataninja-blog/'
+baseURL = 'www.igherighe.com'
 languageCode = 'en-us'
 title = "An Epic ADHD Journey To Senior Engineer"
 theme = 'ananke'
