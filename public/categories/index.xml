@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on An Epic ADHD Journey To Senior Engineer</title>
-    <link>www.igherighe.com/categories/</link>
+    <link>https://blog.igherighe.com/categories/</link>
     <description>Recent content in Categories on An Epic ADHD Journey To Senior Engineer</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="www.igherighe.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://blog.igherighe.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
