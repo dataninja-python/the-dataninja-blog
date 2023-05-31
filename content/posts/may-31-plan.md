@@ -28,13 +28,9 @@ Might as well get started.
 3. Prepare myself to pursue a master's degree
 
 ## MAY 31, 2023 ACTIONS
-[] Finish React coding refresher
-<br>
-<br>
-[] Complete 3 sections of Go By Example tutorial
-<br>
-<br>
-[] Read Chapter 10 of "A Linear Algebra Primer for Financial Engineering"
+* [ ] Finish React coding refresher
+* [ ] Complete 3 sections of Go By Example tutorial
+* [ ] Read Chapter 10 of "A Linear Algebra Primer for Financial Engineering"
 
 # LATER
 Check back this evening to see what I did and what I learned.
