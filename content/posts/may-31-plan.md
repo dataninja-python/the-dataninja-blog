@@ -29,7 +29,9 @@ Might as well get started.
 
 ## MAY 31, 2023 ACTIONS
 [] Finish React coding refresher
+
 [] Complete 3 sections of Go By Example tutorial
+
 [] Read Chapter 10 of "A Linear Algebra Primer for Financial Engineering"
 
 # LATER
