@@ -1,0 +1,143 @@
+# KEY TAKEAWAYS
+
+1. Adopt IXP (The Igherighe Xenthera Principle{sm}). Favor deliberate energy-efficient action likely to have outsized impact over chaotic, impulsive behavior.
+
+2. "Easy" = challenge + inexperience. History is full of people let the easy route become their downfall.
+
+3. If React is easy, what is hard? You are forced to make many critical decisions without any guidance. Then, there's the dependency house of cards you create that could collapse at any time. Worse yet, the open-source license allows them to pull your ability to use the library if you sue Meta.
+
+4. Popular != best. Popular is popular. If you choose anything because it's popular, you have outsourced the only thing YOU should do. Think for yourself! Selecting a UI tool is likely the least of your problems.
+
+5. No library, framework, language, tool, or technology is better or worse in all use cases. Know the problem. Know the customer. Know your vision. Then, select what makes sense. It'll be wrong anyway so get started.
+
+# I AM SMART
+
+First, a little background. I'm a nerd who started with a degree in finance and was taught the art of problem-solving at McKinsey & Company. Since then, I've honed these skills to become a crisis resolution entrepreneur.
+
+Over a decade ago, I decided data science + computer science + math would make my analyses better. I've been on a learning journey ever since. Today, my favorite hobby is learning new, often forgotten computer languages.
+
+Yet, when you're an entrepreneur, out of necessity, you end up getting in way over your head. This is how I learned software architecture, dev-ops, and system/network engineering. These skills allowed me to build "Frankenstein." This is what I call the amalgamation of 7 laptops, 2 ML workstations, 12 Raspberry Pis, 2 Nvidia Nanos, and 3 ISP networks I've combined into a personal home lab and data center.
+
+So, when I decided to build the MVP for our upcoming social media platform, I thought: "This is just front-end. I've done front-end before. Piece of cake, right?"
+
+F*** NO!
+
+# I AM DUMB
+
+One word describes my mistake: Hubris! You see I made a big miscalculation. If you skim the section above, you'll notice something. My work primarily deals with computer hardware, networking, mathematics, data, software, or algorithms. In fact, I spend 90% of my time in Linux terminals (client) connected to other machines (servers) that do the work.
+
+I falsely believed this was "real" computer science. Or, "real" programmig. Let me tell you. It is NOT.
+
+I have been humbled by the complexity involved in creating an enjoyable user experience (UX). The design skills, psychology, knowledge of ever-changing technology, etc hidden behind "user interface (UI)" are deceptive. UI is everything.
+
+Put simply: regardless of how well you build every other part of your tech stack, you will likely fail with a bad UX. You can't reach product-market fit if no one stays around long enough to see what the product does.
+
+# BE SMARTER THAN ME AND SAVE 90 HOURS
+
+If I had to do this again, here are the 3 things I would do to save a ton of time:
+
+1. Focus On The Right Tool For The Job.
+
+Would you paint with a plunger? If you answered yes, stop reading and unfollow me on all social media. For the sane people remaining, don't fall for UI technology trap. The loudest voices come from the React camp. Need to make a button. There's a React plug-in for that. Shopping cart. Of course, React. A NASA Satellite. You get the picture...
+
+The harsh reality is there is no technology, language, library, framework, or tool that solves every problem well. But, there is a very real cognitive overhead that comes with each new thing you add to your tech stack. So, what should you do?
+
+Let's put UI projects on a 0-10 scale. 0 = a single static webpage. 10 = a complex, enterprise-grade, micro-services front-end.
+
+* 0 to < 2: You're better off using vanilla HTML, CSS, and Javascript. Forget K.I.S.S. Use my term here: K.I.D. (Keep It Dumberer) and maintain your sanity.
+
+* > 7 to 10: You are in enterprise land now. You have more than one team working on this, or will soon, a decent budget, and a need to build something robust for the long-term. Here standardization and ease of maintenance matter most. You not only need a full framework but you're likely going to customize it as well. This is where Angular and other 
+
+* 2 to 7: Here's a good space for React. However, it's also where Vue, Svelte, and other UI libraries can play.
+
+Take a moment to ask yourself, why are you using React? If you find your answer includes: "It's got the most likes on Stack Overflow, reddit, or Git" maybe you should dig a little deeper. Unless this is a hobby project, you're about to tie your application, team, and company's future you chose because of FOMO. Didn't work for NFTs so I doubt it'll work well here.
+
+2. Avoid Shortcuts...There Are No Cheat Codes.
+
+This is a pet peeve. In my time in computer science, I've repeatedly seen a technology gain a huge following because "it's easier." Translation: most people can get enough to show on-screen in < 5 minutes to impress less technical people. 
+
+It's one reason Python dominates Data Science. Despite, interpreted languages not being well suited for the task since they process data slower. And, it's why React beats Angular. But, this is often a short-sighted perspective. Why do anything, if it's not to learn? And, why learn if not to comprehend?
+
+People rarely discuss the cost of "easy." Let's do so here:
+
+First, this cost usually hits at the worst possible time. Somewhere in the future when you need to maintain, scale, secure, share, collaborate on, add features to, standardize, etc that application you built. By this point, what was a quick, painless early decision is now an expensive major overhaul. Why? Let's focus on just React for a second:
+
+* While React is considered "easier" than Angular, it requires learning React's way of doing things. Components. Props. Hooks. Context. A weird hybrid declarative-functional programming approach. This differs significantly from the HTML, CSS, and Javascript way. Same for how software is developed in other areas. To the point that you can master React and have no idea how the browser, middleware, backend, or databases work. 
+
+Don't think this is a problem? Well, I do. I tell contractors. I'm not paying for the output because we can't fully predict results. I'm paying for the quality of your thinking. How valuable is a person great at React but terrible at problem-solving? Not very considering I don't need them around to tell me their solution to every problem = React.
+
+* Is (a) getting something on-screen in 5 minutes or (b) taking 2 days to understand how a solution addresses your problem more important? Sure (a) will feel easier and give a faster shot of dopamine. Yet, not only will you be better informed when you make a decision but you'll also be better prepared to solve inevitable future problems. In short, the easiest path is rarely the best one. Childbirth is one of the hardest things humans do...but without it, we wouldn't exist. Contemplate that.
+
+* Some major issues I discovered late in my battle with React are:
+
+** (a) It offers little best practice guidance. If you have a normal brain (cough, cough, screw you), but to us with ADHD you've just sent us across the event horizon of a tech black hole in which we can waste weeks.
+
+** (b) React changes all the time. This is fine because all tech does and should. But, React doesn't seem to do so for the right reasons. For example, when I used React four years ago, it used classes. This made sense because in other languages classes encapsulate concepts and functionality. React was doing this for UI. Then, things moved to functions. Ok. A little confusing. But, I've learned Haskell; so, I understand functions and meta-functions can be used to accomplish similar outcomes as classes. Sometimes, if functional programming principles are followed, it can even make for more secure, logical software. Now, the latest thing is using arrow functions. NERD ALERT (skip this if you don't care how programming languages work under the hood): So what? Well, (1) arrow functions can't self-reference. This means this.arrowfunction.name won't return anything. (2) Arrow functions lack built-in arguments. This code: let in = [1,2,3], const display = {screen: () => {console.log(...args)}} says "args is undefined" if you pass it "in." It's popular so React must be doing something right but making logical changes doesn't appear to be a community mandate.
+
+** (c) Once you pick React you just build the UI right? Wrong! This is the start of the event horizon mentioned in (a). From there, you have to choose Vite, Create-React-App, or Module Federation to set up the scaffolding for a monolith or micro-frontend app - again without guidance. Next, install React-dom, Babel, Webpack, a development server, Redux, Nextjs or Gatsby, React-Router, Styled-Components, Storybook, DotEnv, Sass, Typescript (because let's face it > 1 page of Javascript = bad), @types, and potentially 10 more libraries to get started. Congratulations by the way. Your "easy" UI builder has morphed into a hodge podge of interconnected libraries you are now dependent on but which are maintained by unknown groups of people part-time. Changes or conflicts can (a) crash your app, (b) lead to nearly impossible-to-locate bugs (I once spent a day trying to figure out why a sub-component couldn't receive properties from a parent before I realized I misspelled something), or (c) slow performance to a crawl.
+
+** In summary, "easy" != best. Just because something appears to have a less daunting learning curve. That doesn't mean you won't find the difficulty later when you have to secure, update, add to, maintain, document, scale, or take the app to production. Especially, if what you use lacks enforced standards or accepted best practices. This is just having to one day have a team of 5+ developers coding 5+ different ways and increasingly less able to work on each other's code as the app becomes more complex. Remember childbirth is one of the hardest things humans do...but no one would be here without it. Sometimes it's better to take the time and comprehend something vs immediately start building. To learn full-stack, I took a boot camp in 2020. They focused nearly entirely on building things with React, Express, and Node. Obviously, given how much I've struggled over the last 3 weeks to build our UI, they did a poor job of teaching the "What," "Why," and "How." 
+
+It wasn't until I learned Go lang, Haskell, Lisp, and Fortran on my own that I realized if you answer: "What a language does?" "Why does it do it this way?" "How does it do so?" You can learn any language/library/framework/concept/field in a reasonable time. Spare yourself the pain. Don't waste 90 hours to learn something without understanding the fundamentals.
+
+3. Follow The Igherighe Xenarthra Principle(sm) (or "IXP").
+
+Over the last decade, I've noticed tech gurus usually publish a book, write papers, give courses, get patents, create an open-source library, build a unicorn startup, or name something. Ain't nobody got time for the first six so to establish myself in the lucrative guru field I'm naming a new technology development principle. The Igherighe Xenarthra Principle (IXP) is simple. To follow IXP, you must be like Xenarthras.
+
+To those who didn't spend an hour on Wikipedia, Xenarthra's are Sloths. And, they are the coolest animals.
+
+Sloth Fun Facts:
+
+- Muscle mass makes up ~25% of their body weight. But food in their stomachs makes up 66%.
+
+- Digest food over more than a month (the slowest of any animal).
+
+- Use the restroom, on the ground, once a week.
+
+- Spend 90% of waking hours motionless.
+
+- Sleep 42% of their lives.
+
+- In case, you're a math nerd like me: (1 - 42%) * (1 - 90%) = Sloths are only awake and active 5% of the time.
+
+- Hearts beat 15 times a minute (15% of humans).
+
+- Reproduce every ~2 years.
+
+- Run at a whopping 0.15 miles per hour (humans jog 33x faster than this).
+
+- "Sloth" translates to "lazy"
+
+Society has a negative view of sloths. Makes sense given our capitalistic, compete 24/7/365 against some unknown, unseen enemy culture. 
+
+HOT TAKE: What most call lazy, is efficiency. Proof?
+
+1. Sloths have existed 133x longer than humans.
+
+2. Adjusting to the same heart rate, sloths live 6x longer than humans.
+
+3. (Admittedly, this is the most speculative) Sloths' slower pace lifestyle = happier lives.
+
+So, while we live in conflict with our environment, sloths live in harmony with them. They do a few things well. And spend little energy on anything else.
+
+To translate: "Sloths are WINNING!"
+
+What can IXP do for you? Why does it matter? Simple:
+
+* Get more rest because creative problem-solving is what you really do...not front-end, back-end, AI, etc.
+
+* Take more time to be still and observe the world, people, history, problems, solutions, and look for patterns. They are there.
+
+* Pick THE 3 things that if they were they only things you could do make everything else trivial. Just do these. Reassess regularly.
+
+* Filter your data intake. From now on only introduce new concepts you commit to learn from the fundamentals up. Stop when you can teach a 5-year-old.
+
+* Adopt Orwellian control over your energy. It is finite. Eliminate those who don't respect it. Don't spend it where it doesn't move you to a better future state.
+
+# FINAL THOUGHTS
+
+In case you're wondering, I chose Angular. After several discussions with my mentors, reflection on the actual problem I'm trying to solve, maintainability is important, code modification ease trumps speed to market, and Angular's approach resembles techniques used in system software development, it is the best tool for me to build a social media platform. However, I'm open-minded your situation may lead to a different decision.
+
+PUBLIC SERVICE ANNOUNCEMENT: Read React's terms of service carefully. It appears there is a clause in there that, if you sue Meta, they can retract your right to use React. Wow! Monopoly much?
+
+NOTE: If enough people (a) follow me on threads, (b) and comment they want to see the analysis behind my arguments, I'll make a thread with a Github link available for peer review. My thread handle is: "shoegameallstar."
